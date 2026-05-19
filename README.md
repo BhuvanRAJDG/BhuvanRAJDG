@@ -1,5 +1,11 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,100:111827&height=280&section=header&text=Bhuvan%20Raj%20D%20G&fontSize=52&fontColor=F472B6&animation=fadeIn&fontAlignY=40"/>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Computer+Vision+%7C+NLP+%7C+Healthcare+AI;AI+%26+Data+Science+Student"/>
+  </a>
+</p>
 <!--
 **BhuvanRAJDG/BhuvanRAJDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
