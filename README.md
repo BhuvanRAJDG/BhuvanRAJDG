@@ -1,5 +1,12 @@
+<!-- FUTURISTIC HEADER -->
+
+<!-- FRIENDLY AESTHETIC HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,100:111827&height=280&section=header&text=Bhuvan%20Raj%20D%20G&fontSize=52&fontColor=F472B6&animation=fadeIn&fontAlignY=40"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Handlee&weight=400&size=46&duration=3500&pause=1000&color=F9A8D4&center=true&vCenter=true&width=1200&height=120&lines=Hey+there+%F0%9F%91%8B;I+am+Bhuvan+Raj+D+G"
+    alt="Typing SVG"
+  />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -41,6 +48,40 @@
 <p align="center">
   
 ✨ Building today, intelligence for tomorrow ✨
+
+</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/BhuvanRAJDG/BhuvanRAJDG/output/github-contribution-grid-snake.svg" /> </p>
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rajbhuvancollege@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://github.com/BhuvanRAJDG">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhuvan-raj-dg-08386a349">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://leetcode.com/u/BhuvanDRAJOnTheHunt/">
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://instagram.com/bhuvvvdraj">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+📍 SIT, Tumakuru • Tumakuru, India
 
 </p>
 <!--
